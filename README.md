@@ -27,6 +27,26 @@ Jupyter Notebook
 • The United States produces the most Netflix titles.
 • Movies dominate the platform compared to TV Shows.
 • Most movies are around 90–120 minutes long.
+## Visualizations
+
+### Netflix Content Growth
+![Netflix Growth](images/netflix_growth.png)
+
+### Movies vs TV Shows
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
+### Top Countries Producing Content
+![Top Countries](images/top_countries.png)
+
+### Rating Distribution
+![Rating Distribution](images/rating_distribution.png)
+
+### Movie Duration
+![Movie Duration](images/movie_duration.png)
+
+### Top Genres
+![Top Genres](images/top_genres.png)
+
 
 ## Project Structure
 
