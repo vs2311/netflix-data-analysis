@@ -47,9 +47,6 @@ Jupyter Notebook
 ### Top Genres
 ![Top Genres](images/top_genres.png)
 
-### Top Director 
-![Top Director](images/top_directors.png)
-
 
 ## Project Structure
 
